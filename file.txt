@@ -1,4 +1,7 @@
 another file added
+<<<<<<< HEAD
 lalalalal
 bbbbb
 cccccccc
+=======
+>>>>>>> feature
